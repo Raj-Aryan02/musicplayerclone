@@ -1,0 +1,14 @@
+@media (max-width:365px){
+    html{
+        font-size: 84%;
+    }
+
+    .bottom i{
+        font-size: 22px;
+    }
+
+.container{
+    background: url(bg1.jpg);
+    background-size: 100% 100%;
+}
+}
